@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @LungeloZikalala
+- 👋 Hi, I’m @ZikalalaAL
 - 👀 I’m interested in Data Analytics, Software engineering, and Big Data managment.
 - - 🌱 I’m currently learning  Bsc applied mathematics and computer sciences as a student in University of Zululand
 - 💞️ I’m looking to collaborate on framework practical on software related feild of study.Most importantly advancing my progeamming skills
